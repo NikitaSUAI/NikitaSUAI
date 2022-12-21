@@ -1,6 +1,6 @@
 
 <h1 align="center">Good day</h1>
-<h3 align="center">My name is Vladislav and I am a developer from St. Petersburg</h3>
+<h3 align="center">My name is Nikita and I am a developer from St. Petersburg</h3>
 
 
 
